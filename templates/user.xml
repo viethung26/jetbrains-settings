@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="lg" value="console.log(&quot;%c9779&quot;, 'color:red;background:yellow;', '$1$'$2$)" description="Log" toReformat="false" toShortenFQNames="true">
+  <template name="lg" value="console.log(&quot;9779 $1$&quot;$2$)" description="Log" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
