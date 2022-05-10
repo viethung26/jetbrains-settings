@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="click(element,eventData)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
