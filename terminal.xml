@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="$USER_HOME$/.nvm/versions/node/v16.15.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/ken/Workspace/weaverse/builder/node_modules/.bin " />
     <option name="myTabName" value="Local" />
   </component>
 </application>
