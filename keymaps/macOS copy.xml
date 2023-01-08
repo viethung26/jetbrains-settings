@@ -37,6 +37,10 @@
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
