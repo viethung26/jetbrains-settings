@@ -23,6 +23,7 @@
     <mask>*.js*</mask>
     <mask>*.scss</mask>
     <mask>*.*css*</mask>
+    <mask>*.svg*</mask>
     <mask>*.ts*</mask>
   </component>
 </application>
