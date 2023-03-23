@@ -62,6 +62,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta g" />
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="shift meta d" />
