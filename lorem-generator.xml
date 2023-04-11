@@ -1,0 +1,26 @@
+<application>
+  <component name="LoremUnits">
+    <option name="preselectedLoremPlaceholderTextModel">
+      <LoremPlaceholderTextModel>
+        <option name="amount" value="1" />
+      </LoremPlaceholderTextModel>
+    </option>
+    <option name="textModelsHistory">
+      <list>
+        <LoremPlaceholderTextModel>
+          <option name="amount" value="1" />
+        </LoremPlaceholderTextModel>
+      </list>
+    </option>
+  </component>
+  <component name="PluginSettings">
+    <option name="showWelcomeMessage" value="false" />
+  </component>
+  <component name="RecentActions">
+    <option name="actionHistory">
+      <list>
+        <option value="lorem.TextAction" />
+      </list>
+    </option>
+  </component>
+</application>
